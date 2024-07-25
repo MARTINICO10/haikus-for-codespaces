@@ -1,0 +1,112 @@
+  slidecode: {
+    title: "Mentalidad de Crecimiento",
+    subtitle: "Basado en el libro de Carol Dweck",
+    slidenum: 1,
+    image_id: "ID_DE_LA_IMAGEN",
+    body: [
+      {
+        point: "Objetivo de la presentación",
+        description: "Entender cómo nuestras creencias sobre nuestras capacidades influyen en nuestro éxito y desarrollo personal."
+      },
+      {
+        point: "Resumen del libro",
+        description: "Explora las diferencias entre mentalidad fija y mentalidad de crecimiento y su impacto en diversas áreas de la vida."
+      }
+    ]
+  }
+})```
+
+### Diapositiva 2: Concepto de Mentalidad Fija vs. Mentalidad de Crecimiento
+
+Buscaré una imagen que represente las dos mentalidades.
+
+#### Búsqueda de Imagen
+Buscaré una imagen con el título "Fixed vs. Growth Mindset".
+
+```slidesgpt_com__jit_plugin.searchImages({ caption: "Fixed vs. Growth Mindset" })```
+
+Luego, utilizaré la imagen seleccionada para generar la segunda diapositiva.
+
+#### Generación de Diapositiva
+
+```slidesgpt_com__jit_plugin.generateSlide({
+  slidecode: {
+    title: "Mentalidad Fija vs. Mentalidad de Crecimiento",
+    subtitle: "",
+    slidenum: 2,
+    image_id: "ID_DE_LA_IMAGEN",
+    body: [
+      {
+        point: "Definiciones",
+        description: "Mentalidad fija: habilidades innatas y estáticas. Mentalidad de crecimiento: habilidades desarrollables mediante esfuerzo y aprendizaje."
+      },
+      {
+        point: "Comparación",
+        description: "Mentalidad fija: evita desafíos, se rinde fácilmente. Mentalidad de crecimiento: abraza desafíos, persiste a pesar de los obstáculos."
+      },
+      {
+        point: "Ejemplos prácticos",
+        description: "Estudiantes, profesionales y líderes pueden beneficiarse adoptando una mentalidad de crecimiento."
+      }
+    ]
+  }
+})```
+
+### Diapositiva 3: Impacto en la Educación y el Aprendizaje
+
+Buscaré una imagen que represente la educación y el aprendizaje.
+
+#### Búsqueda de Imagen
+Buscaré una imagen con el título "Growth Mindset in Education".
+
+```slidesgpt_com__jit_plugin.searchImages({ caption: "Growth Mindset in Education" })```
+
+Luego, utilizaré la imagen seleccionada para generar la tercera diapositiva.
+
+#### Generación de Diapositiva
+
+```slidesgpt_com__jit_plugin.generateSlide({
+  slidecode: {
+    title: "Impacto en la Educación y el Aprendizaje",
+    subtitle: "",
+    slidenum: 3,
+    image_id: "ID_DE_LA_IMAGEN",
+    body: [
+      {
+        point: "Efectos en estudiantes",
+        description: "Mayor disposición a aprender, aceptar desafíos y recuperarse de fracasos."
+      },
+      {
+        point: "Estrategias",
+        description: "Elogiar el esfuerzo y la perseverancia en lugar del talento innato."
+      },
+      {
+        point: "Ejemplos de éxito",
+        description: "Historias de estudiantes y escuelas que han mejorado mediante la adopción de una mentalidad de crecimiento."
+      }
+    ]
+  }
+})```
+
+### Generación de Diapositivas
+
+Generaré las diapositivas una por una y te mostraré el resultado. Comencemos con la primera diapositiva.
+
+#### Diapositiva 1
+
+![Introducción](https://slidesgpt.com/media/ID_DE_LA_IMAGEN)
+[View or Download](https://slidesgpt.com/view/ID_DE_LA_PRESENTACION)
+
+#### Diapositiva 2
+
+![Concepto de Mentalidad Fija vs. Mentalidad de Crecimiento](https://slidesgpt.com/media/ID_DE_LA_IMAGEN)
+[View or Download](https://slidesgpt.com/view/ID_DE_LA_PRESENTACION)
+
+#### Diapositiva 3
+
+![Impacto en la Educación y el Aprendizaje](https://slidesgpt.com/media/ID_DE_LA_IMAGEN)
+[View or Download](https://slidesgpt.com/view/ID_DE_LA_PRESENTACION)
+
+### Continuación
+
+¿Te gustaría continuar con las siguientes diapositivas?
