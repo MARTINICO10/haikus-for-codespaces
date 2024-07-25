@@ -1,0 +1,22 @@
+const educationSlide = await slidesgpt_com__jit_plugin.generateSlide({
+  slidecode: {
+    title: "Impacto en la Educación y el Aprendizaje",
+    subtitle: "",
+    slidenum: 3,
+    image_id: educationImageId,
+    body: [
+      {
+        point: "Efectos en estudiantes",
+        description: "Mayor disposición a aprender, aceptar desafíos y recuperarse de fracasos."
+      },
+      {
+        point: "Estrategias",
+        description: "Elogiar el esfuerzo y la perseverancia en lugar del talento innato."
+      },
+      {
+        point: "Ejemplos de éxito",
+        description: "Historias de estudiantes y escuelas que han mejorado mediante la adopción de una mentalidad de crecimiento."
+      }
+    ]
+  }
+});
